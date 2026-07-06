@@ -1,4 +1,4 @@
-# 
+# Nativo Docker Desktop predefinições para Mac OS | Automático Docker Desktop predefinições para PC Windows. Com fluxo de pull request e builds multiplataforma — otimizado para máximo desempenho em cada plataforma.
 
 
 
